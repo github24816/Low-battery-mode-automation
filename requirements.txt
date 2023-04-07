@@ -1,8 +1,0 @@
-The liabaries you have to install are-
-pyautogui
-psutil
-Open the files in visual studio code(if you don't have visual studio code download it)
-Rename the mouse.py file to mouse.pyw
-Create a shortcut for mouse.pyw and support.py
-Paste the two shortcuts in the startup folder of your computer which is in the start menu. It can be searched on the search tab in files explorer.
-
