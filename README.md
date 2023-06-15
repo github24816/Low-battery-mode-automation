@@ -2,7 +2,7 @@ To use the project, first download the following libraries using pip in the comm
 pyautogui and
 psutil.
 After you are done downloading, locate the zip file you have downloaded and create shortcuts for the mouse and support file. Cut the shortcuts and paste them into the startup folder of your computer.
-NOTE: Works only in Windows 11
+NOTE: Works only in Windows 11.
 How it works:
 The program lowers the brightness and volume of the computer when it reaches 20 percent or lower.
 It uses pyautogui to move the mouse to change the brightness and volume and uses psutil to check the battery percentage.
